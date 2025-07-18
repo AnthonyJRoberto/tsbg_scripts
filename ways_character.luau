@@ -15,13 +15,13 @@ local ToolName = baseButton.ToolName
 
 local baseButton2 = hotbarFrame:FindFirstChild("2").Base
 
-local ToolName2 = baseButton.ToolName
+local ToolName2 = baseButton2.ToolName
 local baseButton3 = hotbarFrame:FindFirstChild("3").Base
 
-local ToolName3 = baseButton.ToolName
+local ToolName3 = baseButton3.ToolName
 local baseButton4 = hotbarFrame:FindFirstChild("4").Base
 
-local ToolName4 = baseButton.ToolName
+local ToolName4 = baseButton4.ToolName
 
 
 ToolName.Text = "bro move!"
